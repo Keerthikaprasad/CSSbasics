@@ -1,0 +1,10 @@
+/*Universal Selector*/
+* {
+    background: lightblue
+  }
+ /*Class selector*/
+ .center {
+    text-align: center;
+    color: rgb(92, 38, 179);
+  }
+  
